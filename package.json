@@ -27,14 +27,14 @@
   "homepage": "https://github.com/hisk/james-auth#readme",
   "dependencies": {
     "angular": "^1.6.2",
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
     "jsonwebtoken": "^7.3.0",
     "morgan": "^1.8.1",
     "mysql": "^2.13.0",
     "passport": "^0.3.2",
-    "passport-jwt": "^2.2.1",
+    "passport-jwt": "^4.0.0",
     "sequelize": "^3.30.2"
   }
 }
