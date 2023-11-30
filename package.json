@@ -27,7 +27,7 @@
   "homepage": "https://github.com/hisk/james-auth#readme",
   "dependencies": {
     "angular": "^1.6.2",
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.1",
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
     "jsonwebtoken": "^7.3.0",
